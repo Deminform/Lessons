@@ -1,5 +1,0 @@
-package com.shildt.glava_09;
-
-interface Callback {
-    void callback(int param);
-}
