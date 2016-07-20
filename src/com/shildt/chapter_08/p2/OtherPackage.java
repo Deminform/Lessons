@@ -5,7 +5,7 @@ package com.shildt.chapter_08.p2;
  */
 class OtherPackage {
     OtherPackage() {
-        glava_1_2_3_4_5_6_7_8_9.p1.Protection p = new glava_1_2_3_4_5_6_7_8_9.p1.Protection();
+        com.shildt.chapter_08.p1.Protection p = new com.shildt.chapter_08.p1.Protection();
         System.out.println("Конструктор из другого пакета");
 
 //        доступно только для данного класса или пакета
