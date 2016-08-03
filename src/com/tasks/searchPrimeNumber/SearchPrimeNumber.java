@@ -1,6 +1,6 @@
-package com.tasks;
+package com.tasks.searchPrimeNumber;
 
-public class SerachPrimeNumber {
+public class SearchPrimeNumber {
     public static void main(String[] args) {
         for (int i = 2; i < 1000; i++) {
             if (checkNumber(i)) {
