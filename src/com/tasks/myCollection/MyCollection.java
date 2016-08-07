@@ -72,8 +72,6 @@ public class MyCollection {
         }
     }
 
-
-
     private void incrElem(int num) {
         for (int i=0; i<intArray.length; i++) {
             intArray[i] += num;
